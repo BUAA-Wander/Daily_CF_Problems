@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF847B](https://codeforces.com/problemset/problem/847/B) | Instead of constructing each array separately, you can consider the position of each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0831/solution/cf847b.md) |
-| 2400 | [CF1673F](https://codeforces.com/problemset/problem/1673/F) | A cycle means $0$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0831/solution/cf1673f.md) |
+| 1600 | [CF682C](https://codeforces.com/problemset/problem/682/C) | If a $u$ doesn't satisfy the condition, its subtree should all be removed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0914/solution/cf682c.md) |
+| 2300 | [CF1065E](https://codeforces.com/problemset/problem/1065/E) | Check the string and the reversed string. What happens in a operation? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0914/solution/cf1065e.md) |
