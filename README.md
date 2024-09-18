@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF682C](https://codeforces.com/problemset/problem/682/C) | If a $u$ doesn't satisfy the condition, its subtree should all be removed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0914/solution/cf682c.md) |
-| 2300 | [CF1065E](https://codeforces.com/problemset/problem/1065/E) | Check the string and the reversed string. What happens in a operation? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0914/solution/cf1065e.md) |
+| 1700 | [CF1279D](https://codeforces.com/problemset/problem/1279/D) | Process each step carefully. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0918/solution/cf1279d.md) |
+| 2000 | [CF340E](https://codeforces.com/problemset/problem/340/E) | Inclusion-exclusion method. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0918/solution/cf340e.md) |
