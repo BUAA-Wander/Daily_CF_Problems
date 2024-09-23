@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1279D](https://codeforces.com/problemset/problem/1279/D) | Process each step carefully. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0918/solution/cf1279d.md) |
-| 2000 | [CF340E](https://codeforces.com/problemset/problem/340/E) | Inclusion-exclusion method. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0918/solution/cf340e.md) |
+| 1800 | [CF1073C](https://codeforces.com/problemset/problem/1073/C) | When $maxID-minID+1$ is fixed, what segment can you change? Where can you get? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0923/solution/cf1073c.md) |
+| 1900 | [CF1648C](https://codeforces.com/problemset/problem/1648/C) | Find the first position where the strings differ. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0923/solution/cf1648c.md) |
