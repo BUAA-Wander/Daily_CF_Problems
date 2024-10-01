@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF895B](https://codeforces.com/problemset/problem/895/B) | How can you calculate the number of $y$ in the interval $[l,r]$ that is divisible by $x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0926/solution/cf895b.md) |
-| 2000 | [CF975D](https://codeforces.com/problemset/problem/975/D) | List out the equatiion that two points should satisfy such that they meet at some point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0926/solution/cf975d.md) |
+| 1800 | [CF363D](https://codeforces.com/problemset/problem/363/D) | If we fix the number of recented bikes, it is easy to choose which bikes to rent. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1001/solution/cf363d.md) |
+| 1900 | [CF1677C](https://codeforces.com/problemset/problem/1677/C) | Transform $\|num_{a_i}-num_{b_i}\|$ into $\|num_i-num_{p_i}\|$. What is that supposed to mean? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1001/solution/cf1677c.md) |
