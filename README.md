@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF358D](https://codeforces.com/problemset/problem/358/D) | For each position, we only care about two things: Does the one on the left of it comes earlier? Does the one on the right of it comes earlier? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1029/solution/cf358d.md) |
-| 1900 | [CF613A](https://codeforces.com/problemset/problem/613/A) | You just need to find the minimum and the maximum distance. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1029/solution/cf613a.md) |
+| 1600 | [CF1062C](https://codeforces.com/problemset/problem/1062/C) | For each segment, find a optimal way to operate. Which variables determine the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1102/solution/cf1062c.md) |
+| 2200 | [CF868D](https://codeforces.com/problemset/problem/868/D) | When considering substrings of length $k$, the concatenation of strings does not generate a lot of different ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1102/solution/cf868d.md) |
