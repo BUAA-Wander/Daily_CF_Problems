@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF319A](https://codeforces.com/problemset/problem/319/A) | After considering the largest bit, we can divide the array into two parts which are basically the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1130/solution/cf319a.md) |
-| 2200 | [CF369D](https://codeforces.com/problemset/problem/369/D) | There is a pattern that the remaining fools should follow. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1130/solution/cf369d.md) |
+| 1800 | [CF77B](https://codeforces.com/problemset/problem/77/B) | Try drawing the area that satisfies the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1223/solution/cf77b.md) |
+| 1900 | [CF134B](https://codeforces.com/problemset/problem/134/B) | If the final pair is fixed, the number of steps is fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1223/solution/cf134b.md) |
