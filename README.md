@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1042C](https://codeforces.com/problemset/problem/1042/C) | There are only three types of numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1226/solution/cf1042c.md) |
-| 2000 | [CF1610D](https://codeforces.com/problemset/problem/1610/D) | Bezout Theorem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1226/solution/cf1610d.md) |
+| 1800 | [CF772A](https://codeforces.com/problemset/problem/772/A) | If the time is fixed, which devices should you charge? The chosen set can't vary much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0217/solution/cf772a.md) |
+| 1900 | [CF700A](https://codeforces.com/problemset/problem/700/A) | Divide the pupils into groups. Each group should use the same amount of time on the bus. Then consider how they walk. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0217/solution/cf700a.md) |
