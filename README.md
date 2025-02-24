@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF772A](https://codeforces.com/problemset/problem/772/A) | If the time is fixed, which devices should you charge? The chosen set can't vary much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0217/solution/cf772a.md) |
-| 1900 | [CF700A](https://codeforces.com/problemset/problem/700/A) | Divide the pupils into groups. Each group should use the same amount of time on the bus. Then consider how they walk. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0217/solution/cf700a.md) |
+| 1800 | [CF222C](https://codeforces.com/problemset/problem/222/C) | Find the prime factors to delete and then delete them | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0224/solution/cf222c.md) |
+| 1900 | [CF1689D](https://codeforces.com/problemset/problem/1689/D) | The result of a absolute function can be transformed into a maximum result of linear functions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0224/solution/cf1689d.md) |
