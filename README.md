@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF222C](https://codeforces.com/problemset/problem/222/C) | Find the prime factors to delete and then delete them | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0224/solution/cf222c.md) |
-| 1900 | [CF1689D](https://codeforces.com/problemset/problem/1689/D) | The result of a absolute function can be transformed into a maximum result of linear functions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0224/solution/cf1689d.md) |
+| 1700 | [CF1340B](https://codeforces.com/problemset/problem/1340/B) | Make the first digit large enough and make it possible for the latter digits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0306/solution/cf1340b.md) |
+| 2000 | [CF2052J](https://codeforces.com/problemset/problem/2052/J) | For a given $t$ , how should you arrange the activities? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0306/solution/cf2052j.md) |
