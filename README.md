@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1340B](https://codeforces.com/problemset/problem/1340/B) | Make the first digit large enough and make it possible for the latter digits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0306/solution/cf1340b.md) |
-| 2000 | [CF2052J](https://codeforces.com/problemset/problem/2052/J) | For a given $t$ , how should you arrange the activities? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0306/solution/cf2052j.md) |
+| 1600 | [CF380A](https://codeforces.com/problemset/problem/380/A) | It is such a repetitive array, and it can be divided into several parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0329/solution/cf380a.md) |
+| 2200 | [CF757D](https://codeforces.com/problemset/problem/757/D) | The largest number can't get too large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0329/solution/cf757d.md) |  
