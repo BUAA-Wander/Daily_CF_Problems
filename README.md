@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF373B](https://codeforces.com/problemset/problem/373/B) | Numbers comes in intervals. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0524/solution/cf373b.md) |
-| 2400 | [CF582C](https://codeforces.com/problemset/problem/582/C) | If $s$ is fixed, what should $l$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0524/solution/cf582c.md) |
+| *1600 | [GYM104604D](https://codeforces.com/gym/104604/problem/D) | Consider the factor of $V$ as $V/x$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1121/solution/cf104604d.md) |
+| *1800 | [GYM106178B](https://codeforces.com/gym/106178/problem/B) | When $N$ is large, the elements which come later don't vary much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1121/solution/cf106178b.md) |
